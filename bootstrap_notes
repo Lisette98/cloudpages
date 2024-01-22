@@ -17,3 +17,5 @@
 -- margins to block classes: "m-1" - "m-5" for margin around
 -- "my-1" for top and bottom, "mx-1" for left and right, "mt-1" for top, "mb-1" for bottom, "ms-1" for left/start, "me-1" for right/end
 -- with added width, you can add margin auto: "w-50 m-auto"
+-- padding to block classes: "p-1" - "p-5" for margin around
+-- "py-1" for top and bottom, "px-1" for left and right, "pt-1" for top, "pb-1" for bottom, "ps-1" for left/start, "pe-1" for right/end
