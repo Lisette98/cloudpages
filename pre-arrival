@@ -78,6 +78,13 @@
 
      
       <style>
+
+          @media only screen and (max-width: 450px) {
+         .header-image  {
+         background-position: center center;
+         max-width: 100%;
+         }
+         }
          .header-image {
          background-image:
          linear-gradient(to bottom, rgba(245, 246, 252, 0.2), rgba(0, 0, 0, 0.6)),
