@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- Bootstrap CSS -->
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+      <link href="https://cloud.emails.ymcanyc.org/prearrival_styles.css" rel="stylesheet" >
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+      <script>
+         $(document).ready(function(){
+         $(".switch").click(function(){
+         $(".bi-chevron-down").toggleClass("bi-chevron-up");
+         e.preventDefault();
+         });
+         });
+           
+      </script>
+
+       <script>
+         $(document).ready(function(){
+         $(".switch-1").click(function(){
+         $(".bi-chevron-down-1").toggleClass("bi-chevron-up-1");
+         e.preventDefault();
+         });
+         });
+           
+      </script>
+
+
+       <script>
+         $(document).ready(function(){
+         $(".switch-2").click(function(){
+         $(".bi-chevron-down-2").toggleClass("bi-chevron-up-2");
+         e.preventDefault();
+         });
+         });
+           
+      </script>
+
+
+       <script>
+         $(document).ready(function(){
+         $(".switch-3").click(function(){
+         $(".bi-chevron-down-3").toggleClass("bi-chevron-up-3");
+         e.preventDefault();
+         });
+         });
+           
+      </script>
+
+       <script>
+         $(document).ready(function(){
+         $(".switch-4").click(function(){
+         $(".bi-chevron-down-4").toggleClass("bi-chevron-up-4");
+         e.preventDefault();
+         });
+         });
+           
+      </script>
+
+       <script>
+         $(document).ready(function(){
+         $(".switch-5").click(function(){
+         $(".bi-chevron-down-5").toggleClass("bi-chevron-up-5");
+         e.preventDefault();
+         });
+         });
+           
+      </script>
+
+     
+
+      
+
+     
+      <style>
+         .header-image {
+         background-image:
+         linear-gradient(to bottom, rgba(245, 246, 252, 0.2), rgba(0, 0, 0, 0.6)),
+         url('https://image.emails.ymcanyc.org/lib/fe3d15707564057d731175/m/1/welcome.png');
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-position-y: 35%;
+         color: #ffffff;
+         height: 250px;
+         }
+      </style>
+      <title>You @ the Y Onboarding Journey</title>
+   </head>
+   <body>
+      <header>
+         <!-- Background image -->
+         <div class="header-image" >
+            <div >
+               <div class="header-button ">
+                  <p  class="pre-boarding">PRE-BOARDING PROGRAM</p>
+               </div>
+               <div  class="header-text">
+                  <h2 >You @ the Y Prearrival Portal</h2>
+               </div>
+            </div>
+         </div>
+         </div>
+         <!-- Background image -->
+      </header>
+      <section>
+         <!-- 2 column - image and text -->
+         <div class="container" style="padding:50px 20px;">
+            <div class="row">
+               <div class="col col-lg-4">
+                  <div class="col-sm-8 mb-5">
+                     <div class="card" style="width:300px">
+                        <img class="card-img-top" src="https://image.emails.ymcanyc.org/lib/fe3d15707564057d731175/m/1/pre-arrival_hello.jpeg" alt="Card image">
+                        <div class="card-body">
+                           <h4 class="card-title">Welcome from ...</h4>
+                           <p class="card-text">Click button above to play video.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-sm-8 mb-5">
+                  <h4 style="line-height: 135%"> Congratulations on joining our company! <br><br>
+                     We are so excited to welcome you to our amazing team and we want you to have a blast from day one. That’s why we have created this prearrival portal just for you. 
+                  </h4>
+                  The prearrival portal is a convenient and enjoyable way to learn about the next steps, the new staff orientation, the Y company and its culture, and the first day logistics before your official start date. It also helps you setup tasks ahead of time so that you can start your new job with confidence and ease.<br><br>
+                  Here are the steps of the prearrival portal:</p>
+                  <ol>
+                     <li><b>Next Steps.</b> Expect an email from TA with instructions on next steps and what to expect on 1st day from HR</li>
+                     <li><b>Leadership Welcome.</b> Expect a leadership welcome email with Pre-arrival Portal</li>
+                     <li><b>Meet your Y Mate and Leader.</b> Meet your Y-Mate and leader who will guide you through the onboarding program and answer any questions you may have.</li>
+                     <li><b>Show off your best Y Selfie:</b> Flaunt your smile and snap a Y selfie</li>
+                     <li><b>Discover our culture.</b> Learn about our company, culture and, values through websites, stories, and videos.</li>
+                     <li><b>Get ready for day one.</b> Prepare for your first day by checking out your schedule, location, dress code, and other important </li>
+                  </ol>
+                  <p>We hope you enjoy the pre-board program and we can’t wait to see you soon! 😊
+                  </p>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+      <!--  collapsible section 1-->
+      <section>
+         <div class="container mt-3">
+            <p class="switch" data-bs-toggle="collapse" data-bs-target="#demo" style="font-size: 130%;"><i class="bi  bi-chevron-down"></i> 1️⃣ Step 1: Next Steps</p>
+            <div id="demo" class="collapse">
+               <div class="container" style="padding:20px 20px;">
+                  <div class="row">
+                     <div class="col-sm-8 mb-5">
+                        <p>Congratulations, you’re almost there! You should expect an email from TA with instructions on next steps and what to expect on your 1st day as well as a checklist of the documents and information we need from you to get you set up. Please take some time to read through the email and instructions and feel free to ask us anything you want to know.
+                           <br><br>
+                           Contact TA: 
+                        </p>
+                     </div>
+                     <div class="col col-lg-4">
+                        <div class="col-sm-8 mb-5">
+                           <div class="card" style="width:300px">
+                              <img class="card-img-top" src="https://image.emails.ymcanyc.org/lib/fe3d15707564057d731175/m/1/pre-arrival_hello.jpeg" alt="Card image">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <br>
+            <hr />
+          </div>
+
+         </div>
+       
+         <br><br><br>
+      </section>
+      <!--  collapsible section 1-->
+
+<!--  collapsible section 2-->
+      <section>
+         <div class="container mt-3">
+            <p class="switch-1" data-bs-toggle="collapse" data-bs-target="#demo-1" style="font-size: 130%;"><i class="bi bi-chevron-down-1"></i> 2️⃣ Step 2: Leadership Welcome</p>
+            <div id="demo-1" class="collapse">
+               <div class="container" style="padding:20px 20px;">
+                  <div class="row">
+                     <div class="col-sm-8 mb-5">
+                        <p>The second step is to set up your online accounts and devices that you will use for work. You will receive an email from our IT department with instructions on how to create your email address, password, and other accounts on our platforms and tools. You will also receive a link to a survey where you can choose your preferred device (laptop, tablet, etc.) and accessories (mouse, keyboard, etc.).
+                        <br><br>
+                        Please follow the instructions and complete the survey as soon as possible. We will ship your device and accessories to your home address before your first day. You will also receive a guide on how to set up and use your device and accessories.
+                        </p>
+                     </div>
+                     <div class="col col-lg-4">
+                        <div class="col-sm-8 mb-5">
+                           <div class="card" style="width:300px">
+                              <img class="card-img-top" src="https://image.emails.ymcanyc.org/lib/fe3d15707564057d731175/m/1/pre-arrival_hello.jpeg" alt="Card image">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <br>
+            <hr />
+          </div>
+
+         </div>
+       
+         <br><br><br>
+      </section>
+      <!--  collapsible section 2-->
+
+      <!--  collapsible section 3-->
+      <section>
+         <div class="container mt-3">
+            <p class="switch-2" data-bs-toggle="collapse" data-bs-target="#demo-2" style="font-size: 130%;"><i class="bi bi-chevron-down-2"></i> 3️⃣ Step 3: Meet your Y-Mate and Leader</p>
+            <div id="demo-2" class="collapse">
+               <div class="container" style="padding:20px 20px;">
+                  <div class="row">
+                     <div class="col-sm-8 mb-5">
+                        <p>The third step is to meet your Y-Mate and Leader. Your Y-Mate is a peer mentor who will help you navigate the pre-board and onboarding process. Your leader is the person who will supervise your work and performance. You will receive an email from both of them with their contact details and availability.
+                        <br><br>
+                        Please reply to their emails and schedule a call with them if applicable. The goal of these chats is to say hi, ask questions, get feedback, and learn more about your role and expectations. It will be a great opportunity to connect with your new colleagues and have some fun. 
+                                                </p>
+                     </div>
+                     <div class="col col-lg-4">
+                        <div class="col-sm-8 mb-5">
+                           <div class="card" style="width:300px">
+                              <img class="card-img-top" src="https://image.emails.ymcanyc.org/lib/fe3d15707564057d731175/m/1/pre-arrival_hello.jpeg" alt="Card image">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <br>
+            <hr />
+          </div>
+
+         </div>
+       
+         <br><br><br>
+      </section>
+      <!--  collapsible section 3-->
+
+ <!--  collapsible section 4-->
+      <section>
+         <div class="container mt-3">
+            <p class="switch-3" data-bs-toggle="collapse" data-bs-target="#demo-3" style="font-size: 130%;"><i class="bi bi-chevron-down-3"></i> 4️⃣ Step 4: Show off your best Y Selfie</p>
+            <div id="demo-3" class="collapse">
+               <div class="container" style="padding:20px 20px;">
+                  <div class="row">
+                     <div class="col-sm-8 mb-5">
+                        <p>The fourth step is to flaunt your smile and snap a Y selfie. You can access the digital swag repository with cool backgrounds to add your photo and spice it up. Then, post your selfie on social media and let the world know that you are #NewtotheY. Don’t be shy, show us your smile and your style. 😎
+                        <br><br>
+                        Digital Swag: 
+                        </p>
+                     </div>
+                     <div class="col col-lg-4">
+                        <div class="col-sm-8 mb-5">
+                           <div class="card" style="width:300px">
+                              <img class="card-img-top" src="https://image.emails.ymcanyc.org/lib/fe3d15707564057d731175/m/1/pre-arrival_hello.jpeg" alt="Card image">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <br>
+            <hr />
+          </div>
+
+         </div>
+       
+         <br><br><br>
+      </section>
+      <!--  collapsible section 4-->
+
+      <!--  collapsible section 5-->
+      <section>
+         <div class="container mt-3">
+            <p class="switch-4" data-bs-toggle="collapse" data-bs-target="#demo-4" style="font-size: 130%;"><i class="bi bi-chevron-down-4"></i> 5️⃣ Step 5: Explore our Company, Culture, and Values</p>
+            <div id="demo-4" class="collapse">
+               <div class="container" style="padding:20px 20px;">
+                  <div class="row">
+                     <div class="col-sm-8 mb-5">
+                       <p> The fourth step is to get a taste of our company culture and values. 
+<br><br>
+You can have fun with these resources at your own pace and learn about our awesome story, vision, mission, values, goals, impact, and policies. </p>
+<ul>
+<li><a href="https://ymcanyc.org/our-story" target="_blank">YMCA of greater new york story: YMCA of New York City: Our History, Story, and Mission</a></li>
+<li><a href="https://ymcanyc.org/about" target="_blank">About New York City's YMCA: Mission, Strategic Plan, Leadership (ymcanyc.org)</a></li>
+
+<li><a href="https://ymcanyc.org/programs/community-impact" target="_blank">Community Impact | YMCA OF GREATER NEW YORK (ymcanyc.org)</a></li>
+<li><a href="https://ymcanyc.org/programs/community/new-americans-initiative" target="_blank">New Americans Initiative | YMCA OF GREATER NEW YORK (ymcanyc.org)</a></li>
+<li><a href="https://ymcanyc.org/equity-diversity-inclusion" target="_blank">Equity, Diversity & Inclusion | YMCA OF GREATER NEW YORK (ymcanyc.org)</a></li>
+<li><a href="https://ymcanyc.org/y-stories" target="_blank">Y Stories | YMCA OF GREATER NEW YORK (ymcanyc.org)</a></li>
+<li><a href="https://ymcanyc.org/newsroom" target="_blank">Newsroom | YMCA OF GREATER NEW YORK (ymcanyc.org)</a></li>
+<li><a href="https://ymcanyc.org/about/reports-publications" target="_blank">Reports, Publications, and Tax Returns for NYC's YMCA (ymcanyc.org)</a></li>
+</ul>
+                        </p>
+                     </div>
+                     <div class="col col-lg-4">
+                        <div class="col-sm-8 mb-5">
+                           <div class="card" style="width:300px">
+                              <img class="card-img-top" src="https://image.emails.ymcanyc.org/lib/fe3d15707564057d731175/m/1/pre-arrival_hello.jpeg" alt="Card image">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <br>
+            <hr />
+          </div>
+
+         </div>
+       
+         <br><br><br>
+      </section>
+      <!--  collapsible section 5-->
+
+
+      <!--  collapsible section 6-->
+      <section>
+         <div class="container mt-3">
+            <p class="switch-5" data-bs-toggle="collapse" data-bs-target="#demo-5" style="font-size: 130%;"><i class="bi bi-chevron-down-5"></i>  6️⃣ Step 6: Get ready for day one</p>
+            <div id="demo-5" class="collapse">
+               <div class="container" style="padding:20px 20px;">
+                  <div class="row">
+                     <div class="col-sm-8 mb-5">
+                        <p>The fifth step is to gear up for your first day of adventure. You will receive an email from our HR department with a detailed agenda of your first day. The agenda will include the time, location, dress code, parking information, and other details of the awesome events that you will attend. The events will include a welcome session, an office tour, a team meeting, a training session, and a social activity. Please review the agenda and make sure you have everything you need for your first day. You can also reach out to your buddy or manager if you have any questions or concerns.
+                        <br><br>
+                        Some quick tips:</p>
+                        <ol>
+                         <li>Check your email for the first day agenda:.</li>
+
+                        <li>Prepare your questions and expectations: Think about what you want to learn, achieve, and contribute in your new role.</li>
+
+                        <li>Pack your essentials: Make sure you have everything you need for your first day, such as your ID</li>
+
+                        <li>Arrive on time and dress appropriately: Plan to arrive at least 15 minutes before the start of the orientation events.</li>
+
+                         <li>We can’t wait to see you on your first day! 😊</li> </ol>
+                        </p>
+                     </div>
+                     <div class="col col-lg-4">
+                        <div class="col-sm-8 mb-5">
+                           <div class="card" style="width:300px">
+                              <img class="card-img-top" src="https://image.emails.ymcanyc.org/lib/fe3d15707564057d731175/m/1/pre-arrival_hello.jpeg" alt="Card image">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <br>
+            <hr />
+          </div>
+
+         </div>
+       
+         <br><br><br>
+      </section>
+      <!--  collapsible section 6-->
+    
+
+
+
+
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+   </body>
+</html>
