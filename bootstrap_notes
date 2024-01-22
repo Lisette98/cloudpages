@@ -19,3 +19,23 @@
 -- with added width, you can add margin auto: "w-50 m-auto"
 -- padding to block classes: "p-1" - "p-5" for margin around
 -- "py-1" for top and bottom, "px-1" for left and right, "pt-1" for top, "pb-1" for bottom, "ps-1" for left/start, "pe-1" for right/end
+-- "w-25" "w-50" "w-75" "w-100" "w-auto"
+-- "h-25" "h-50" "h-75" "h-100" "h-auto"
+-- "border rounded-1" will add different levels of border radius
+-- "shadow-sm" "shadow" "shadow-lg" adds shadow to div
+-- Code for a dropdown button:
+ <!-- Dropdown Button -->
+      <div class="dropdown">
+        <button
+          class="btn btn-secondary dropdown-toggle"
+          data-bs-toggle="dropdown"
+        >
+          Dropdown Button
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="#" class="dropdown-item">Link 1</a></li>
+          <li><a href="#" class="dropdown-item">Link 2</a></li>
+          <li><a href="#" class="dropdown-item">Link 3</a></li>
+        </ul>
+      </div>
+ <!-- Dropdown Button -->
