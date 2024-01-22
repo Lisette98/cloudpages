@@ -1,0 +1,19 @@
+-- Use div class "container" for larger margins or "container-lg" for smaller margins on text.
+-- Use div class "container-fluid" for full-width images 
+-- Use div class "display-6" for nice-looking titles 
+-- Use div class "lead" for display text 
+-- "text-lowercase" "text-uppercase" "text-capitalize"
+-- To align text: "text-start" "text-center" "text-end"
+-- To hide div: "d-none" This is useful for hiding at different screen sizes, or showing on click 
+      .d-none
+      Hidden only on xs:	.d-none .d-sm-block
+      Hidden only on sm:	.d-sm-none .d-md-block
+      Hidden only on md:	.d-md-none .d-lg-block
+      Hidden only on lg:	.d-lg-none .d-xl-block
+      Hidden only on xl:	.d-xl-none
+
+-- To fix a block element (p,div), apply div "fixed-top" "fixed-bottom"
+-- "link-primary" for basic blue styling on link
+-- margins to block classes: "m-1" - "m-5" for margin around
+-- "my-1" for top and bottom, "mx-1" for left and right, "mt-1" for top, "mb-1" for bottom, "ms-1" for left/start, "me-1" for right/end
+-- with added width, you can add margin auto: "w-50 m-auto"
