@@ -23,19 +23,8 @@
 -- "h-25" "h-50" "h-75" "h-100" "h-auto"
 -- "border rounded-1" will add different levels of border radius
 -- "shadow-sm" "shadow" "shadow-lg" adds shadow to div
--- Code for a dropdown button:
- <!-- Dropdown Button -->
-      <div class="dropdown">
-        <button
-          class="btn btn-secondary dropdown-toggle"
-          data-bs-toggle="dropdown"
-        >
-          Dropdown Button
-        </button>
-        <ul class="dropdown-menu">
-          <li><a href="#" class="dropdown-item">Link 1</a></li>
-          <li><a href="#" class="dropdown-item">Link 2</a></li>
-          <li><a href="#" class="dropdown-item">Link 3</a></li>
-        </ul>
-      </div>
- <!-- Dropdown Button -->
+-- Use row to parent div for columns
+-- cols are assigned in sections of 12
+-- "col" will assign amount of horizontal space per column, but will not drop down for screen size
+-- "col-md-6" will drop down at medium size 
+
