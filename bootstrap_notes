@@ -31,4 +31,6 @@
 -- "col-sm-6 col-lg-3"
 -- If you have a lot of columns, such as from a database, you can set up column structure from the row div:
 -- "row row-cols-1 row-cols-md-2 row-cols-lg-3"
+-- "invisible" and "visible" will display or not display and take up space. 
+-- "float-start" "float-end" "float-none" "float-lg-end" to float items.
 
